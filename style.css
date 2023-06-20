@@ -172,7 +172,7 @@ footer{
   text-align: center;
 }
  /*media queries*/
-@media(min-width: 700px) {
+@media (min-width: 700px) {
   :root{
     --bg-url: url(./mobile/bg-desktop-dark.jpg);
   }
